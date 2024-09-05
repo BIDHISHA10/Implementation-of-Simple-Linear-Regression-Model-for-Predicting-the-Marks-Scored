@@ -82,7 +82,7 @@ print("RMSE= ",rmse)
 ![image](https://github.com/user-attachments/assets/c917a99f-a8fb-40ca-abff-70d3ba123824)
 ## X and Y VALUES
 ![image](https://github.com/user-attachments/assets/33cf812f-00ea-42af-a0f9-ea1d61db302a)
-Predication values of X and Y
+## Predication values of X and Y
 ![image](https://github.com/user-attachments/assets/6a872593-3f8e-4ca9-abc9-8837a1ec6e79)
 
 ## GRAPH
